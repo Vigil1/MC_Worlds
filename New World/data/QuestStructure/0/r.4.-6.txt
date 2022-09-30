@@ -1,0 +1,5 @@
+StonePlantMound2,2062,2075,-3575,-3563
+StoneLeafMound,2097,2106,-3581,-3574
+StonePlantMound2,2117,2129,-3567,-3554
+StonePlantMound,2188,2193,-3555,-3550
+Tree_Oak_TheMushroomOak_v3,2179,2229,-3517,-3458

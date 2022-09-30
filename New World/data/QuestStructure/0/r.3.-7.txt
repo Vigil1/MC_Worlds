@@ -1,0 +1,11 @@
+StonePlantMound,2003,2008,-3717,-3712
+StonePlantBoulder,1980,1990,-3619,-3609
+StonePlantBoulder,1919,1929,-3709,-3699
+BlazeSpawnerCrystal,1896,1902,-3612,-3606
+StonePlantMound4,1885,1892,-3616,-3609
+SmallAbandonedMine,1840,1865,-3739,-3724
+RLCraft_DecentSkeleton,1934,1934,-3825,-3825
+RLCraft_UndergroundRuin2,1929,1939,-3827,-3820
+ShrineSmallAir,1839,1847,-3652,-3644
+RLCraft_SmallUndergroundSkeleton,1826,1834,-3828,-3820
+DinosaurSkull,1859,1878,-3878,-3867

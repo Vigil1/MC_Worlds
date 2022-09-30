@@ -99,3 +99,7 @@ DinosaurSkull,-889,-878,306,325
 StonePlantMound1,-842,-836,337,343
 StoneLeafMound,-631,-622,338,345
 RLCraft_SmallUndergroundSkeleton,-976,-968,325,333
+StonePlantMound1,-518,-512,-166,-160
+UndergroundCrypt,-546,-518,-205,-191
+SmallWoodenCottage,-575,-567,-269,-258
+StonePlantMound1,-852,-846,-304,-298

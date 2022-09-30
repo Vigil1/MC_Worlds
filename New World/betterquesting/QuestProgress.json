@@ -2666,10 +2666,18 @@
     },
     "203:10": {
       "questID:3": 203,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f",
+          "timestamp:4": 1664507028560
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f"
+          },
           "index:3": 0,
           "taskID:8": "bq_msi:location"
         }
@@ -2870,11 +2878,26 @@
     },
     "221:10": {
       "questID:3": 221,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f",
+          "timestamp:4": 1664511726134
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:block_break"
         }
@@ -3183,14 +3206,22 @@
     },
     "236:10": {
       "questID:3": 236,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f",
+          "timestamp:4": 1664511765135
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f"
+          },
           "userProgress:9": {
             "0:10": {
               "data:9": {
-                "0:3": 0
+                "0:3": 3
               },
               "uuid:8": "23e9c6ee-bdca-4987-b651-de506bfb5f3f"
             }

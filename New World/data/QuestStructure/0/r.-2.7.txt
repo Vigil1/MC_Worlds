@@ -1,0 +1,4 @@
+P_RuinedHouse,-1199,-1182,3602,3627
+RLCraft_SmallTown,-1277,-1206,3571,3646
+RLCraft_DecentSkeleton,-1084,-1084,3620,3620
+RLCraft_UndergroundRuin3,-1090,-1082,3615,3623

@@ -1,0 +1,15 @@
+StonePlantMound1,-1042,-1036,3057,3063
+StoneLeafMound,-1046,-1037,3010,3017
+StoneLeafMound,-1168,-1159,3040,3047
+StoneBoulder,-1080,-1071,2991,3000
+StonePlantMound3,-1051,-1040,2985,2994
+RLCraft_SmallTown,-1071,-1000,2957,3032
+StonePlantMound1,-1276,-1270,3034,3040
+StonePlantMound3,-1259,-1250,2983,2994
+ShrineSmallAir,-1288,-1280,3022,3030
+SpiderPit,-1094,-1084,2915,2924
+StonePlantMound,-1179,-1174,2930,2935
+StonePlantMound4,-1313,-1306,3004,3011
+StonePlantMound,-1329,-1324,2958,2963
+StonePlantMound4,-1380,-1373,3044,3051
+StonePlantMound2,-1395,-1382,3009,3021

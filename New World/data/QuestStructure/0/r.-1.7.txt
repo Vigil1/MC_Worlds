@@ -1,0 +1,3 @@
+StonePlantMound4,-1008,-1001,3589,3596
+ShrineSmallFire,-961,-951,3612,3622
+SmallWoodenCottage1,-977,-966,3646,3652
