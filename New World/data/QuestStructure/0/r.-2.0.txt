@@ -1,0 +1,11 @@
+StonePlantMound2,-1047,-1035,-1,12
+StonePlantMound,-1063,-1058,-106,-101
+StonePlantMound,-1032,-1027,-191,-186
+StonePlantMound4,-1093,-1086,-114,-107
+ClayWaterMound1,-1036,-1025,-232,-222
+RLCraft_DecentCaveSpider,-1043,-1043,-236,-236
+RLCraft_UndergroundRuin2,-1045,-1038,-241,-231
+SmallWoodenCottage,-1099,-1091,99,110
+StonePlantMound1,-1045,-1039,-265,-259
+BrickHenge,-1070,-1054,175,191
+BlazeSpawnerCrystal,-1102,-1096,132,138

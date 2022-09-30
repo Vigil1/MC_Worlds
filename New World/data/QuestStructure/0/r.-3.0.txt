@@ -1,0 +1,4 @@
+StoneLeafMound,-1832,-1823,-507,-500
+StonePlantMound3,-1898,-1889,-461,-450
+StonePlantMound,-1803,-1798,-459,-454
+StonePlantMound4,-1698,-1691,-471,-464

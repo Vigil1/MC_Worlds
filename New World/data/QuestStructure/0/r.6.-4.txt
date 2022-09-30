@@ -1,0 +1,8 @@
+ShrineSmallFire,3196,3206,-2315,-2305
+P_SmallShip,3272,3292,-2298,-2292
+BlazeSpawnerCrystal,3263,3269,-2450,-2444
+ShrineSmallWater,3091,3099,-2111,-2103
+RLCraft_DecentWitch,3117,3117,-2502,-2502
+RLCraft_UndergroundRuin3,3111,3119,-2507,-2499
+P_CultIsland,3002,3212,-2579,-2409
+ShrineSmallAir,3364,3372,-2449,-2441

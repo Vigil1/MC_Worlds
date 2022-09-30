@@ -1,0 +1,4 @@
+ShrineSmallAir,2762,2770,-1485,-1477
+RLCraft_DecentSpider,2708,2708,-1463,-1463
+RLCraft_UndergroundRuin2,2706,2713,-1468,-1458
+ClayWaterMound,2662,2670,-1395,-1388

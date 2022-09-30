@@ -1,0 +1,15 @@
+StonePlantMound,-2096,-2091,-609,-604
+RLCraft_BasicSkeleton,-2107,-2107,-633,-633
+RLCraft_UndergroundRuin1,-2113,-2104,-636,-627
+StonePlantMound1,-2171,-2165,-700,-694
+MysticalTree1,-2124,-2113,-600,-587
+StoneLeafMound,-2135,-2126,-649,-642
+StonePlantBoulder,-2149,-2139,-651,-641
+StoneBoulder,-2113,-2104,-545,-536
+StonePlantMound,-2132,-2127,-802,-797
+StonePlantMound1,-2059,-2053,-921,-915
+RLCraft_SmallUndergroundSkeleton,-2087,-2079,-930,-922
+StonePlantMound,-2120,-2115,-961,-956
+RLCraft_BasicSkeleton,-2069,-2069,-974,-974
+RLCraft_UndergroundRuin1,-2075,-2066,-980,-971
+StoneBoulder,-2180,-2171,-980,-971

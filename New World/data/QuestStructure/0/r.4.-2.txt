@@ -1,0 +1,6 @@
+StonePlantMound,2507,2512,-1487,-1482
+SmallWoodenCottage,2498,2509,-1474,-1466
+StoneLeafMound,2538,2545,-1471,-1462
+ShrineSmallAir,2345,2353,-1425,-1417
+DinosaurSkull,2457,2468,-1422,-1403
+SpiderPit,2402,2412,-1376,-1367

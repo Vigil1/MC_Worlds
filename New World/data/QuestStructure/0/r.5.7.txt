@@ -1,0 +1,7 @@
+WoodWallRemains,2666,2674,3745,3773
+VillageMarketplace,2662,2676,3852,3866
+SeasonsGreenhouse,2683,2695,3802,3812
+P_Village2Story,2662,2668,3871,3884
+P_VillageFarmhouse,2642,2654,3883,3895
+StonePlantMound,2676,2681,3876,3881
+PeacefulCrypt,2715,2731,3896,3920
